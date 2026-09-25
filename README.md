@@ -39,7 +39,8 @@ Rather than just displaying historical performance, the suite features a native 
 ---
 
 ## 📷 Dashboard Preview
-<img width="451" height="254" alt="Screenshot 2026-09-25 085927" src="https://github.com/user-attachments/assets/115883ab-a02a-4471-bacc-f5ce28f85cc6" />
+<img width="464" height="252" alt="image" src="https://github.com/user-attachments/assets/66df6b10-ec06-4cad-88bb-f13d5e5a9ccc" />
+
 
 
 ---
