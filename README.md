@@ -39,9 +39,8 @@ Rather than just displaying historical performance, the suite features a native 
 ---
 
 ## 📷 Dashboard Preview
-*(Replace the placeholder image link below with your actual screenshot link once uploaded to your documentation folder!)*
+<img width="451" height="254" alt="Screenshot 2026-09-25 085927" src="https://github.com/user-attachments/assets/115883ab-a02a-4471-bacc-f5ce28f85cc6" />
 
-![Dashboard Main Interface](documentation/your_screenshot_name.png)
 
 ---
 
